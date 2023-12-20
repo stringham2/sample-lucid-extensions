@@ -1,0 +1,26 @@
+{
+  "id": "",
+  "version": "1.0.0",
+  "extensions": [
+    {
+      "name": "quick-document-data-linking",
+      "title": "quick-document-data-linking",
+      "products": [
+        "chart",
+        "spark",
+        "teamspaces"
+      ],
+      "codePath": "editorextensions/quick-document-data-linking/bin/extension.js",
+      "scopes": [
+        "READ",
+        "WRITE",
+        "DOWNLOAD",
+        "SHOW_MODAL",
+        "CUSTOM_UI",
+        "NETWORK"
+      ]
+    }
+  ],
+  "shapeLibraries": [],
+  "oauthProviders": []
+}
