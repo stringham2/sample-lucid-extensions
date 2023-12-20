@@ -4,7 +4,7 @@
   "extensions": [
     {
       "name": "bingo-card-generator",
-      "title": "bingo-card-generator",
+      "title": "Bingo",
       "products": [
         "chart",
         "spark",
